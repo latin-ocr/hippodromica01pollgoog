@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hippodromica01pollgoog_0053.png"; bbox 0 0 3096 4766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 432 3465 973 3668">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 432 3465 973 3668">
+     <span class='ocr_line' id='line_1_1' title="bbox 432 3465 973 3552; baseline 0.004 -20"><span class='ocrx_word' id='word_1_1' title='bbox 432 3467 543 3548; x_wconf 82' lang='lat' dir='ltr'>Equus</span> <span class='ocrx_word' id='word_1_2' title='bbox 565 3465 693 3532; x_wconf 81' lang='lat' dir='ltr'>sinistra</span> <span class='ocrx_word' id='word_1_3' title='bbox 716 3467 973 3552; x_wconf 82' lang='lat' dir='ltr'><strong>quadrupedans.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 461 3599 946 3668; baseline 0.002 -14"><span class='ocrx_word' id='word_1_4' title='bbox 461 3599 546 3664; x_wconf 87' lang='lat' dir='ltr'><strong>(Mon.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 560 3600 586 3654; x_wconf 84' lang='lat' dir='ltr'><strong>d.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 599 3601 625 3655; x_wconf 89' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 638 3600 691 3654; x_wconf 85' lang='lat' dir='ltr'><strong>vol.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 704 3599 739 3655; x_wconf 90' lang='lat'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 753 3601 822 3655; x_wconf 82' lang='lat' dir='ltr'><strong>Tab.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 834 3601 946 3668; x_wconf 81' lang='lat' dir='ltr'>XXXI.)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1552 4766">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1552 4766">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1552 4766; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1552 4766; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
